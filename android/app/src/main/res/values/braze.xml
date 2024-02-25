@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="com_braze_firebase_cloud_messaging_registration_enabled" translatable="false">true</bool>
+    <string name="com_braze_firebase_cloud_messaging_sender_id" translatable="false">219675116770</string>
+    <string name="com_braze_api_key">c2e65d68-187e-42e4-863f-0e144a0a7bf1</string>
+    <string name="com_braze_custom_endpoint" translatable="false">sdk.iad-02.braze.com</string>
+    <!-- <drawable name="com_braze_push_small_notification_icon">ic_launcher_round.png</drawable>
+    <drawable name="com_braze_push_large_notification_icon">ic_launcher_round.png</drawable> -->
+    <bool name="com_braze_handle_push_deep_links_automatically">true</bool>
+    <!-- <string name="com_braze_default_notification_channel_name">Braze Fallback Channel</string>
+    <string name="com_braze_default_notification_channel_description">Your channel description</string> -->
+</resources>

@@ -1,0 +1,17 @@
+{
+  "name": "AppdTest",
+  "displayName": "MyActiveHealth",
+  "expo": {
+    "plugins": [
+      [
+        {
+          "androidApiKey": "c2e65d68-187e-42e4-863f-0e144a0a7bf1",
+          "iosApiKey": "e45664c7-132b-4db0-b52b-2149234c0a98",
+          "enableFirebaseCloudMessaging": true,
+          "firebaseCloudMessagingSenderId": "219675116770",
+          "androidHandlePushDeepLinksAutomatically": true
+        }
+      ]
+    ]
+  }
+}

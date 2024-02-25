@@ -1,0 +1,5 @@
+*.ts @ChowdhuryS_cvsh
+/__tests__/* @leicestercity
+/src/* @leicestercity
+/ios/* @leicestercity
+/android/* @leicestercity

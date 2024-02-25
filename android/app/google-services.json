@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "219675116770",
+    "project_id": "appd-sandbox-pophealth",
+    "storage_bucket": "appd-sandbox-pophealth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219675116770:android:7051b15e369db4cd0a0abb",
+        "android_client_info": {
+          "package_name": "com.appdTesting"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLpp9CoCK9qxCIzYYGZyUg2g9oMcSsi_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219675116770:android:f7176689185317d80a0abb",
+        "android_client_info": {
+          "package_name": "com.appdTesting.appd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLpp9CoCK9qxCIzYYGZyUg2g9oMcSsi_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
